@@ -1,5 +1,3 @@
-# memelandia
-
 # 📸 Memelândia - Microservices Edition
 
 O **Memelândia** é um projeto originalmente desenvolvido como uma aplicação monolítica para o gerenciamento de memes, categorias e usuários. Visando maior escalabilidade, facilidade de manutenção e modularidade, o sistema foi **refatorado** para adotar uma arquitetura baseada em **microserviços**.
